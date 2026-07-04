@@ -1,0 +1,47 @@
+[
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Watch Ultra is a premium 47mm LTE Titanium smartwatch designed for both style and functionality. It features a circular display made with durable materials suitable for outdoor activities, providing GPS tracking, health monitoring, and custom apps for various needs. The robust design integrates a range of smart features including notifications, music control, and heart rate tracking, making it an ideal companion for fitness enthusiasts and tech-savvy users alike.",
+      "price": 350.0,
+      "url": "https://www.dealnews.com/Samsung-Galaxy-Watch-Ultra-47-mm-LTE-Titanium-Smartwatch-up-to-350-off-w-Trade-in-free-shipping/21663266.html?iref=rss-c142"
+    },
+    "estimate": 773.8138460593241,
+    "discount": 423.8138460593241
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Apple iPhone 14 Pro Max offers an impressive 256GB storage and a huge display, perfect for both media consumption and productivity. Enjoy advanced camera technology for stunning photos. This model is designed to provide a seamless user experience with 5G capabilities for faster downloads and streaming. Refurbished to high standards, it comes in various colors and can support all the latest apps from the App Store, accommodating any Apple enthusiast's needs.",
+      "price": 705.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-14-Pro-Max-256-GB-Smartphone/462808.html?iref=rss-c142"
+    },
+    "estimate": 930.8824204895075,
+    "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "ECO-WORTHY 12V LiFePO4 deep-cycle battery offering 3,584 Wh (approximately 280 Ah at 12 V) in a compact 17.8\" x 9.4\" x 8.7\" enclosure weighing about 62.8 lb. It includes an integrated 200A battery management system with Bluetooth monitoring and a low-temperature cutoff for safe operation in RV, camper, and trailer applications. Designed for long cycle life and heavy-duty use, the battery provides Bluetooth-enabled status readouts and protections suitable for off-grid or mobile power setups.",
+      "price": 222.0,
+      "url": "https://www.dealnews.com/Eco-Worthy-3-584-Wh-12-V-Bluetooth-Li-Fe-PO4-Lithium-Battery-for-222-free-shipping/21875082.html?iref=rss-c142"
+    },
+    "estimate": 1072.0280502319335,
+    "discount": 850.0280502319335
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Odyssey G93SC is a 49\" ultra-wide curved gaming monitor that uses QD-OLED technology to deliver deep blacks and vivid colors across a 5120\u00d71440 panel. It targets high-performance gaming with a 240Hz refresh rate and an ultra-fast 0.03ms response time, plus support for NVIDIA G-Sync and AMD FreeSync Premium Pro. Connectivity includes HDMI 2.1, DisplayPort, and USB, and it carries DisplayHDR certification for HDR content.",
+      "price": 855.0,
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-G93-SC-Series-49-Free-Sync-OLED-Curved-Gaming-Monitor/459830.html?iref=rss-c39"
+    },
+    "estimate": 1365.3467790527343,
+    "discount": 510.3467790527343
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Odyssey G93SC is a 49\" curved QD-OLED gaming monitor with a 5120\u00d71440 ultrawide resolution, 240Hz refresh rate, and an extremely fast 0.03ms response time for minimal motion blur. It supports DisplayHDR, AMD FreeSync Premium Pro, and NVIDIA G-Sync compatibility, and offers modern connectivity including HDMI 2.1, DisplayPort, and USB. The large ultrawide QD-OLED panel delivers deep blacks, high contrast, and vivid colors tailored for immersive gaming and productivity workflows.",
+      "price": 855.0,
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-G93-SC-Series-49-Free-Sync-OLED-Curved-Gaming-Monitor/459830.html?iref=rss-c39"
+    },
+    "estimate": 1092.502084350586,
+    "discount": 237.50208435058607
+  }
+]
